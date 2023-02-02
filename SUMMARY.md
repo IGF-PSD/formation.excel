@@ -17,7 +17,7 @@
 ## Excel 2
 
 * [Données à télécharger](excel-2/donnees-a-telecharger.md)
-* [Importer des données](excel-2/importer-des-donnees.md)
+* [Importer des données (test)](excel-2/importer-des-donnees.md)
 * [Statistiques decriptives](excel-2/statistiques-decriptives/README.md)
   * [Distribution d'une variable](excel-2/statistiques-decriptives/distribution-dune-variable.md)
   * [Lien entre deux variables](excel-2/statistiques-decriptives/lien-entre-deux-variables.md)
